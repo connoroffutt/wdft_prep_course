@@ -35,9 +35,11 @@ div
 }
 
 .c1 {
+	float: right;
 }
 
 .d1 {
+	float: right;
 }
 
 /* SECOND ROW : DISPLAY */
@@ -46,24 +48,38 @@ div
 }
 
 .b2 {
+	display: none;
 }
 
 .c2 {
+	width: 2%;
+	height: 10%;
 }
 
 .d2 {
+	display: block;
 }
 
 /* THIRD ROW : POSITION */
 
 .a3 {
+	
 }
 
 .b3 {
+	position: absolute;
+	left: 15%;
+	top: 58%;
+
 }
 
 .c3 {
+	position: absolute;
+	right: -1%;
+	bottom: 10%;
 }
 
 .d3 {
+	position: absolute;
+	left: -30%;
 }
