@@ -29,6 +29,7 @@ div
 
 /* FIRST ROW : FLOATS; */
 .a1 {
+	float: left;
 }
 
 .b1 {
